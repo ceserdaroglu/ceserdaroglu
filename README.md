@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ceren Serdaroğlu</h1>
 <h3 align="center">step by step to become a software developer🤭</h3>
 
-- 📫 How to reach me **ceserdaroglu@gmail.com**
+⭐How to reach me **ceserdaroglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
